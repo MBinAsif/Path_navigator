@@ -1,0 +1,8 @@
+{
+  "speech_rate": 140,
+  "volume": 0.9,
+  "alert_frequency": 1.0,
+  "focal_length": 615,
+  "preferred_voice": "default",
+  "haptic_intensity": 0.8
+}
