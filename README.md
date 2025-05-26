@@ -1,6 +1,6 @@
-# 🔍 EchoTrail: Smart Navigation System for the Visually Impaired
+# 🔍 Smart Navigation System for the Visually Impaired
 
-EchoTrail is an AI-powered smart navigation system designed for visually impaired individuals. It integrates real-time object detection (YOLO), spatial audio alerts (Pygame), voice commands (SpeechRecognition), GPS tracking, and haptic feedback to enhance safety and mobility.
+An AI-powered smart navigation system designed for visually impaired individuals. It integrates real-time object detection (YOLO), spatial audio alerts (Pygame), voice commands (SpeechRecognition), GPS tracking, and haptic feedback to enhance safety and mobility.
 
 ---
 
